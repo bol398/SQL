@@ -1,0 +1,6 @@
+CREATE TABLE Kurser 
+(
+ ID INT IDENTITY(1,1) PRIMARY KEY,
+ Namn INT,
+ KursID INT
+)
